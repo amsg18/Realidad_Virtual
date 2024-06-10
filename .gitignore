@@ -1,6 +1,7 @@
-/Config
-/Content
-/Plugins
-/Source
+/Build
+/Binaries
+/DerivedDataCache
+/Saved
 /Intermediate
+/Script
 *.uproject
